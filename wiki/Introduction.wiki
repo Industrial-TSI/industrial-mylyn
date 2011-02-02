@@ -40,3 +40,6 @@ This connector can look in such log files and and a system operator can thus cre
 The Mylyn notification pop up window and the task list will indicate where new issues occurred.
 
 [https://bugs.eclipse.org/bugs/votes.cgi?action=show_user&bug_id=184532#vote_184532 Vote when this use case applies to you]
+
+= Architecture =
+http://wiki.eclipse.org/images/8/86/IndustrialArchitecture.png
