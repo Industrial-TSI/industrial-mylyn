@@ -9,3 +9,5 @@ or with JPA/EclipseLink annotations. A barebones in-memory connector is also pro
 
 Originally developed as base for the Remain Software TD/OMS SDLC product Mylyn integration, 
 the base framework was released as open source under the Eclipse Public License (EPL 1.0)
+
+## build with Tycho
